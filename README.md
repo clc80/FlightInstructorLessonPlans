@@ -1,7 +1,7 @@
 # FlightInstructorLessonPlans
 
 ## User Story to TDD
-As a flight instructor I want to be able to customize a lesson plan for any student. 
+As a flight instructor I want to be able to customize or create a new lesson plan for any student. 
 
 ### Scenario
 From a list of flight maneuvers I can select different ones to add to today's lesson plan. When finished with the selection I can press the done button and be taken to a different page I can share with my student. 
